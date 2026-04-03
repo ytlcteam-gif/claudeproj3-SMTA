@@ -2,7 +2,9 @@
 
 AI-powered web app that classifies social media issues and generates structured action plans, legal references, and complaint drafts.
 
+
 ![SMTAOUPT5](https://github.com/user-attachments/assets/b2ab2254-1ca8-4647-a492-51d203f044c7)
+
 
 
 
@@ -65,7 +67,7 @@ Analysis: Breakdown of the category, severity (Low/Medium/High), and reasoning.
 Action Plan: Immediate steps for platform action and evidence collection.
 
 Complaint Drafts: Collapsible, ready-to-copy formal legal notices.
-------------------------------------------------------------------------------||||||||||||||||||||||||||||||||||||||
+------------------------------------------------------------------------------
 ![SMTAOUPT3](https://github.com/user-attachments/assets/5327f27b-6c9f-4dcd-b89a-e939de7d3557)
 
 
@@ -86,7 +88,7 @@ Complaint Drafts: Collapsible, ready-to-copy formal legal notices.
 Clone the repository
 
 Bash
-git clone https://github.com/your-username/safeguard-ai.git
+git clone https://github.com/your-username/claudeproj3-smta.git
 cd safeguard-ai/frontend
 Install Dependencies
 (Using Tailwind v4 setup)
